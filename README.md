@@ -167,7 +167,7 @@ http://localhost:9000/docs
 
 ---
 
-#  Notes
+#  *Notes
 
 * Exchange rates are stored in the `data/rates.json` file.
 * The file can be edited to add or modify currency rates and use them.
