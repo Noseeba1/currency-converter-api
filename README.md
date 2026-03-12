@@ -147,7 +147,7 @@ docker buildx build --load -t currency-api .
 ## 2. Run the Container
 
 ```bash
-docker run -p 8000:8000 currency-api```
+docker run -p 8000:8000 currency-api
 
 Then open in your browser:
 
