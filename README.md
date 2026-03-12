@@ -155,7 +155,7 @@ Then open in your browser:
 http://127.0.0.1:8000/docs
 
 
-##  Using Environmental variables
+##  3. Using Environmental variables
 
 ```bash
 docker run --env-file .env -p 9000:9000 currency-api
